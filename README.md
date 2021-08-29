@@ -29,7 +29,7 @@ Hello, my name is Ömer. I am 18 years old. I'm Developing Discord bots. I'm mak
 
 ## 📈 Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xpeawxdd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=okeanoss&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xpeawxdd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeanoss&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
