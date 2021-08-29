@@ -7,7 +7,7 @@ Hello, my name is Ömer. I am 18 years old. I'm Developing Discord bots. I'm mak
 
 
 <div align="center">
-    <a href="https://discord.com/users/402222633892184065" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/402222633892184065/"></a>
+    <a href="https://discord.com/users/402222633892184065" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/402222633892184065"></a>
 </div>
 
 
