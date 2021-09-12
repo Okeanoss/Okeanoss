@@ -6,8 +6,7 @@ Hello, my name is Ömer. I am 18 years old. I'm Developing Discord bots. I'm mak
 </div>
 
 
-[Discord Presence](https://api.lanyard.rest/v1/users/459442969288900608)
-
+[![Discord Presence](https://api.lanyard.rest/v1/users/459442969288900608)](https://discord.com/users/459442969288900608)
 
 ## ⚡ Contact
 
