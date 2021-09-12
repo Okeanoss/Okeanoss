@@ -5,7 +5,7 @@ Hello, my name is Ömer. I am 18 years old. I'm Developing Discord bots. I'm mak
     <img src="https://komarev.com/ghpvc/?username=okeanoss&color=dc143c"/>
 </div>
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/459442969288900608)](https://discord.com/users/459442969288900608)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/459442969288900608)](https://discord.com/users/459442969288900608)
 
 ## ⚡ Contact
 
