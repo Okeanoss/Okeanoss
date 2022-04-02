@@ -9,7 +9,7 @@
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/402222633892184065" target="_blank"><img src="https://shields.io/badge/Okeanos-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
+    <a href="https://discord.com/users/541251024279568396" target="_blank"><img src="https://shields.io/badge/Okeanos-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
     <a href="https://github.com/okeanoss" target="_blank"><img src="https://shields.io/badge/Okeanos-111111.svg?&style=for-the-badge&logo=github&Color=white"></a>
     <a href="https://www.youtube.com/channel/UC-klWavP1H0hcEMNB7wUJFw/featured" target="_blank"><img src="https://shields.io/badge/Okeanos-111111.svg?&style=for-the-badge&logo=youtube&Color=white"/></a>
     <a href="https://www.instagram.com/okeanosfps/" target="_blank"><img src="https://shields.io/badge/Okeanos-111111.svg?&style=for-the-badge&logo=instagram&Color=white"/></a>
