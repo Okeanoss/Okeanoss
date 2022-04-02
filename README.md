@@ -1,5 +1,7 @@
 ## Okeanos 🦍
 
+![Profile Count](https://komarev.com/ghpvc/?username=okeanoss&color=00FFD3&style=flat-square)&nbsp;
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=okeanoss&color=dc143c"/>
 </div>
