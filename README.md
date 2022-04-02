@@ -23,6 +23,6 @@
     <img alt="Node.js" align="center" src="https://img.shields.io/badge/-Nodejs-024a27?style=flat-square&logo=node.js&logoColor=white"/>
 </div>
 
-##  Github Stats
+## 📑 Github Stats
 
 ![Okeanos GitHub stats](https://github-readme-stats.vercel.app/api?okeanoss=anuraghazra&theme=tokyonight&show_icons=true)
