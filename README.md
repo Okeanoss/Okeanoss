@@ -25,4 +25,4 @@
 
 ## 📑 Github Stats
 
-![Okeanos GitHub stats](https://github-readme-stats.vercel.app/api?okeanoss=anuraghazra&theme=tokyonight&show_icons=true)
+![Okeanos GitHub stats](https://github-readme-stats.vercel.app/api?username=okeanos&show_icons=true&theme=radical)
