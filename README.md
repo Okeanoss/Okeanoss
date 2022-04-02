@@ -1,6 +1,8 @@
 ## 🎉 Hi, I am Okeanos
 Hello, my name is Ömer. I am 18 years old. I'm Developing Discord bots. I'm making bots for Team, Community and Private Servers. Anyone Who Wants To Have It Done Can Reach Me From The Buttons Below.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/541251024279568396)](https://discord.com/users/541251024279568396)
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=okeanoss&color=dc143c"/>
 </div>
