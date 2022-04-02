@@ -1,11 +1,6 @@
 ## Okeanos 🦍
 
-![Profile Count](https://komarev.com/ghpvc/?username=okeanoss&color=00FFD3&style=flat-square)&nbsp;
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=okeanoss&color=dc143c"/>
-</div>
-
+![Profile Count](https://komarev.com/ghpvc/?username=okeanoss&color=dc143c&style=flat-square)&nbsp;
 [![Discord Presence](https://lanyard.cnrad.dev/api/541251024279568396)](https://discord.com/users/541251024279568396)
 
 ## ⚡ Contact
