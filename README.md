@@ -23,9 +23,4 @@
     <img alt="Node.js" align="center" src="https://img.shields.io/badge/-Nodejs-024a27?style=flat-square&logo=node.js&logoColor=white"/>
 </div>
 
-## 📈 Github Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=okeanoss&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeanoss&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
+![Okeanos GitHub stats](https://github-readme-stats.vercel.app/api?okeanoss=anuraghazra&theme=tokyonight&show_icons=true)
