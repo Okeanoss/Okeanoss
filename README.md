@@ -1,10 +1,10 @@
 ## Okeanos 🦍
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/541251024279568396)](https://discord.com/users/541251024279568396)
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=okeanoss&color=dc143c"/>
 </div>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/541251024279568396)](https://discord.com/users/541251024279568396)
 
 ## ⚡ Contact
 
