@@ -25,4 +25,7 @@
 
 ## 📑 Github Stats
 
-![Okeanos GitHub stats](https://github-readme-stats.vercel.app/api?username=okeanos&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/okeanoss/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeanoss&langs_count=10&custom_title=Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
+  <a href="https://github.com/okeanoss/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=okeanoss&show_icons=true&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=okeanoss%27s+Github+Statistics"/></a>
+</p>
