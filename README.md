@@ -1,5 +1,4 @@
 ## Okeanos 🦍
-[![Discord Presence](https://lanyard.cnrad.dev/api/541251024279568396)](https://discord.com/users/541251024279568396)
 
 ![Profile Count](https://komarev.com/ghpvc/?username=okeanoss&color=dc143c&style=flat-square)&nbsp;
 
